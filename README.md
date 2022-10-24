@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mackie-S</h1>
 <h3 align="center">I'm in Japan and want to be a frontend and a Jamstack engineer.</h3>
 
-- 🔭 I’m currently working on **re-project that makes Web site using WordPress**
+- 🔭 I’m going to work on **some projects that make apps using React and its flamework.**
 
-- 🌱 I’m currently learning **TypeScript, around React including some flameworks and Jamstack architecture.**
+- 🌱 I’m currently learning **TypeScript, Next.js, Gatsby and Jamstack architecture.**
 
 - 📫 How to reach me **masaki.shimadu@gmail.com**
 
