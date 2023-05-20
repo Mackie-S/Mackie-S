@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mackie</h1>
-<h3 align="center">I'm in Japan and want to be a frontend and a Jamstack engineer.</h3>
+<h3 align="center">I'm in Japan and I work as an frontend and backend engineer.</h3>
 
-- 🔭 I’m going to work on **some projects that make apps using React and its flamework.**
-
-- 🌱 I’m currently learning **TypeScript, Next.js, Gatsby and Jamstack architecture.**
+- 🔭 I’m going to work on **some projects that make apps using Next.js and NestJS.**
 
 - 📫 How to reach me **masaki.shimadu@gmail.com**
 
